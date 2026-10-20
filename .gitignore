@@ -1,0 +1,8 @@
+# macOS / OS's
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini

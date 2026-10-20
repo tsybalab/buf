@@ -1,0 +1,188 @@
+# Text extract companion for: 2026-07-16 - BUF.pdf
+# Pages: 10
+
+--- Seite 1 ---
+EINE RECHTLICH-ANALYTISCHE FALLSTUDIE ANHAND VON VIER
+RECHTSKRÄFTIGEN ENTSCHEIDUNGEN DES BERLINER ZIVILPROZESSES
+BUF = Berliner Umgehungsformel
+Vier unabhängige Richter ersetzten die gesetzliche Prozedur durch heuristische Annahmen
+Berlin, Juli 2026
+
+--- Seite 2 ---
+Inhaltsverzeichnis
+
+1. Einleitung: Gesetz vs. Heuristik
+
+2. Die Berliner Umgehungsformel (BUF)
+
+3. Der Widerspruch in der Rechtsprechung
+
+4. Die materiellen Folgen: Prozessualer Deadlock statt Klärung
+
+5. Status Quo: Rechtskräftige Entscheidungen statt bloßer Entwurf
+
+
+--- Seite 3 ---
+1. Einleitung: Gesetz vs. Heuristik
+Die moderne Softwareentwicklung, die empirische Wissenschaft und KI-
+Technologien verabschieden sich zunehmend von heuristischen Prozessen.
+Dieser Trend zeigt sich inzwischen auch in der Forschung zum Legal AI:
+Aktuelle wissenschaftliche Arbeiten schlagen strukturierte, nachvollziehbare
+Entscheidungsmodelle vor, welche heuristische Kurzschlüsse durch eine
+explizite und getrennte Analyse von Tatsachen, Rechtsregeln und
+Schlussfolgerungen ersetzen.
+Unter Heuristik wird im Folgenden ein Entscheidungsverfahren
+verstanden, bei dem anstelle des gesetzlich vorgesehenen, transparenten
+Erkenntniswegs vereinfachende Annahmen, kognitive Abkürzungen oder
+intuitive Schlussfolgerungen verwendet werden. Heuristiken garantieren kein
+richtiges Ergebnis. Sie rationalisieren oft lediglich im Nachhinein eine schnelle,
+intuitive Entscheidung.
+Wenn in der Justiz das Gesetz einen konkreten Mechanismus vorsieht, in
+der Praxis jedoch vier unabhängige Gerichte vier völlig unterschiedliche eigene
+Wege entwickeln, um die Anwendung dieses Gesetzes zu umgehen, entsteht
+ein Muster. In unserem Fall: die Berliner Umgehungsformel (BUF).
+Dieses Begleitheft dokumentiert einen Vorgang, der im Kern eine
+prozessuale Heuristik offenbart. Auf der Grundlage derselben medizinischen
+Dokumentation ergingen in vier unabhängigen Verfahren vier Entscheidungen
+zur prozessualen Handlungsfähigkeit des Betroffenen. Konkret wurden den
+Gerichten aussagekräftige Dokumente zu einem chronischen psychiatrischen
+Zustand vorgelegt, darunter Bescheinigungen und Befunde renommierter
+Berliner Einrichtungen (u. a. Alexianer Krankenhaus, Vivantes Klinikum,
+Schwulenberatung Berlin).
+Das Gesetz sieht für solche medizinischen Bewertungen, die spezielle
+Sachkunde erfordern, einen klaren Weg vor: die Hinzuziehung eines
+Sachverständigen gemäß § 144 ZPO. Anstatt diesen reproduzierbaren und
+transparenten Prozess zu nutzen, griffen die Gerichte auf heuristische
+Annahmen zurück. Das Ergebnis ist eine Rechtswirklichkeit, in der vier Richter
+dieselbe Frage auf vier unterschiedliche, methodisch sich widersprechende
+Arten beantworten – jeweils ohne Fachexpertise.
+
+--- Seite 4 ---
+2. Die Berliner Umgehungsformel (BUF)
+Berliner Umgehungsformel
+
+--- Seite 5 ---
+Die Formel fasst die vier heuristischen Ausweichmanöver zusammen, mit
+denen die Anwendung des § 144 ZPO umgangen wurde:
+BUF = U + A + NP + KB
+U = „Unterstützung suchen“ (LG Berlin II, […]) Das
+Gericht maßt sich an, das Verhalten des Patienten retrospektiv
+medizinisch und normativ zu bewerten: „[…] hätte er sich Unterstützung
+suchen müssen.“
+A = „Bis Mitte August“ (AG Kreuzberg, […]) Das Gericht
+unterstellt die Krankheit als wahr, berechnet aber selbstständig das
+genaue Enddatum der Handlungsunfähigkeit: „[…] so ist nicht ersichtlich,
+warum er dann nicht bis Mitte August 2024 Einspruch hätte einlegen
+können.“
+NP = „Nicht zu prüfen“ (AG Lichtenberg, […]) Durch
+den Verweis auf § 766 ZPO wird die medizinische Fragestellung formal
+aus dem Erinnerungsverfahren ausgeklammert: „[…] sind diese im
+Erinnerungsverfahren gemäß § 766 ZPO nicht zu prüfen.“
+KB = „Keine Begutachtung“ (AG Kreuzberg, […]) Trotz
+Vorlage medizinischer Unterlagen wird das Vorliegen von
+Anknüpfungstatsachen für ein Gutachten schlicht verneint: „Die […]
+Begutachtung nach § 144 ZPO konnte daher mangels
+Anknüpfungstatsachen nicht erfolgen.“
+Ergebnis:
+Bestellte Sachverständige gemäß § 144 ZPO: 0.
+Vier voneinander abweichende heuristische Entscheidungsansätze.
+
+--- Seite 6 ---
+3. Der Widerspruch in der Rechtsprechung
+Diese prozessuale Heuristik der Zivilgerichte steht in bemerkenswertem
+Kontrast zur Haltung der Verwaltungsgerichtsbarkeit.
+Während die Berliner Verwaltungsgerichtsbarkeit (in der Streitsache VG
+9 K 1142/25 bezüglich medizinischer Dokumentation in einem anderen
+regulatorischen Prozess – Part-FCL/MED, DSGVO und ärztlicher
+Dokumentationspflicht) eine inhaltliche Überprüfung der medizinischen
+Behandlungen auf ihre Vereinbarkeit mit wissenschaftlichen Standards mangels
+Klagebefugnis ablehnte und sich einer eigenen medizinischen Bewertung
+enthielt, maßen sich das Amtsgericht Kreuzberg, das Amtsgericht Lichtenberg
+und das Landgericht Berlin II genau eine solche Bewertung an – jeder Richter
+auf seine eigene, laienhafte Weise.
+Daraus ergibt sich ein absurder Zustand: In der verwaltungsrechtlichen
+Prüfung der medizinischen Dokumentation besteht weiterhin eine rechtliche
+Ungewissheit, die das System nicht schließen will. Zivilgerichte hingegen
+treffen ohne Zögern weitreichende Entscheidungen zur Prozess- und
+Handlungsfähigkeit, umgehen dabei aber die Einholung eines echten
+Gutachtens.
+
+--- Seite 7 ---
+4. Die materiellen Folgen: Prozessualer Deadlock statt Klärung
+Wie fatal diese prozessuale Heuristik in der Praxis wirkt, zeigt ein Blick auf
+die materiellen Fakten der Verfahren. Indem die Gerichte die Einholung
+sachverständiger Expertise umgingen und den Zugang zur Sache mit
+laienhaften Bewertungen blockierten, haben sie die rechtliche Aufklärung
+schwerwiegender, systematischer Missstände im Masseninkasso verhindert.
+In drei der vier genannten Verfahrenskomplexe wurden oder werden die
+materiellen Fragen aufgrund ihrer Tragweite inzwischen in neuen Verfahren
+oder Beschwerden weiterverfolgt:
+Telekom (Amtsgericht Kreuzberg / Landgericht Berlin II): Die
+Forderungen wiesen eine künstliche Aufblähung von über 200 % auf,
+darunter mehr als 300 €, die schlicht unerklärt blieben. Zahlungen
+wurden nicht angerechnet. Es existierten zeitgleich zwei getrennte
+Vollstreckungstitel über dieselbe Forderung – die Summen wurden vom
+Gläubiger abwechselnd als „Leistungsabrechnung“ oder
+„Vertragsstrafe“ deklariert.
+PAIJ (Amtsgericht Lichtenberg): Ein eklatanter Fall von Factoring.
+Es wurde ein Vollstreckungstitel für einen angeblichen
+„Kaufvertrag“ erwirkt, der nie existierte. Das einzig vorhandene
+Quittungsdokument weist eine andere Rechnungsnummer, ein anderes
+Datum und einen anderen Betrag aus als tituliert.
+Sparkasse / Inkasso (Landgericht Berlin II): Beträge wurden vor
+Ablauf des Abrechnungszeitraums („billing period“) stillschweigend von
+der Kreditkarte auf das Girokonto verschoben. Es entstand ein Kreditlimit,
+das doppelt so hoch war wie mit der Bank vereinbart. Im Schatten dieses
+Kontoabschlusses wurde zudem ein rechtlich unwirksamer
+Rechtsschutzvertrag (ÖRAG) untergeschoben – dieser Vertrag wurde in
+einem Parallelverfahren (Anerkenntnisurteil des AG Lichtenberg) bereits
+als nicht zustande gekommen abgewehrt, doch das verknüpfte
+Inkassoverfahren läuft weiter.
+
+--- Seite 8 ---
+Anstatt diese offenkundigen Rechtsverstöße aufzuklären, verlagerten die
+Gerichte das Problem auf prozessuale Vorfragen. Sie schufen damit einen
+„prozessualen Deadlock“: Die Überprüfung der Hauptsache wurde von Beginn
+an blockiert. Die Justiz hat die materiellen Fragen nicht gelöst, sondern lediglich
+den rechtlichen Prozess verkompliziert, die Kosten des Klägers vergrößert und
+weitreichende Inkassopraktiken ungeprüft belassen.
+Dabei stellt das Gesetz genau für solche komplexen Sachverhalte
+strukturierte prozessuale Instrumente zur Verfügung, deren ureigener Zweck es
+ist, einen effektiven Rechtsschutz zu garantieren. Doch anstatt diese
+vorgesehenen Mechanismen zur objektiven Sachverhaltsaufklärung zu nutzen,
+wurde flächendeckend zugunsten der Heuristik auf sie verzichtet.
+
+--- Seite 9 ---
+5. Status Quo: Rechtskräftige Entscheidungen statt bloßer Entwurf
+Diese vier Entscheidungen sind keine Entwürfe oder theoretischen
+Konstrukte. Sie wurden mit einer Verfassungsbeschwerde angefochten, vom
+Bundesverfassungsgericht jedoch nicht aufgehoben. Sie sind rechtskräftig.
+Für die Anwendung dieser „Berliner Umgehungsformel“ und die
+"fachkundige" Ablehnung eines Sachverständigengutachtens hat die
+Justizkasse dem Betroffenen zudem
+Gerichtskosten in Höhe von insgesamt € 831 in Rechnung gestellt:
+- € 138 (AG Kreuzberg)
+- € 138 (AG Kreuzberg)
+- € 555 (LG Berlin II)
+Lediglich das Amtsgericht Lichtenberg hat für seinen Beschluss keinen
+gesonderten Betrag in Rechnung gestellt.
+Dies schafft eine bindende, wenngleich bizarre Realität: Die vier
+Entscheidungen dokumentieren bereits vier unterschiedliche gerichtliche
+Bewertungen derselben medizinischen Dokumentation. Sollten dieselben
+Unterlagen künftig erneut Gegenstand eines Verfahrens werden, liegt damit
+bereits ein dokumentierter, rechtskräftiger Bestand divergierender richterlicher
+Einschätzungen vor.
+Der Kläger kann diese Entscheidungen jederzeit vorlegen und darauf
+verweisen: „Die Justiz hat diese Frage bereits viermal auf Basis derselben
+Dokumentation bewertet. Dafür wurden 831 € berechnet. Weitere voneinander
+abweichende richterliche Einschätzungen würden den bereits dokumentierten
+Befund lediglich fortschreiben.“
+
+--- Seite 10 ---
+6. Anlagen zur Dokumentation
+1. Urteil des Amtsgerichts Kreuzberg vom 22.07.2025 ([…])
+2. Beschluss des Amtsgerichts Lichtenberg vom 28.03.2025 ([…])
+3. Urteil des Landgerichts Berlin II vom 13.06.2025 ([…])
+4. Urteil des Amtsgerichts Kreuzberg vom 10.07.2025 ([…])
+Berlin, den 16. Juli 2026
+Oleksandr Tsyba
