@@ -14,6 +14,7 @@ Published texts
 |------|------|
 | <a href="./2026-07-16%20-%20BUF.pdf"><code>2026-07-16 - BUF.pdf</code></a> | Main brochure — four heuristics, four Anlagen |
 | <a href="./2026-08-30%20-%20BUF%20-%20Addendum.pdf"><code>2026-08-30 - BUF - Addendum.pdf</code></a> | Citation correction for **NP** + coordination evidence |
+| <a href="./analyse/formel.de.md">de</a> · <a href="./analyse/formel.en.md">en</a> · <a href="./analyse/formel.uk.md">uk</a> | Forensic analysis — Gegenstand before reasons; two levels; epistemic status (no AZ, no judge names) |
 
 Letter folders hold the **source court / party documents** (white-redacted). Each PDF has a companion `.txt` extract.
 
